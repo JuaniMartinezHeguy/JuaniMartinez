@@ -1,7 +1,7 @@
 <img width="993" height="311" alt="Captura de pantalla 2026-09-14 a la(s) 12 52 51 p  m" src="https://github.com/user-attachments/assets/2b906751-a00f-4178-ae0d-89b0fbba667f" />
 # Hi, I'm Juani Martinez Heguy
 
-### Software Developer | N8N Especialist | UI/UX & Motion Design | Argentine
+### Software Developer | N8N Specialist | UI/UX & Motion Design | Argentine
 Associate Degree in Computer Programming – Universidad Tecnológica Nacional (UTN).
 
 I specialize in architecting scalable custom software solutions, automating complex workflows, and crafting high-performance user interfaces. My technical approach bridges modern full-stack development with advanced workflow orchestration and artificial intelligence, enabling businesses to streamline operations across internal systems, communication channels, and social platforms.
