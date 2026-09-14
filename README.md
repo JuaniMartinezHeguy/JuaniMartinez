@@ -11,11 +11,11 @@ Currently based in Argentina, I work as an independent developer delivering tail
 
 ---
 
-### Languages, Frameworks & Tools
+### 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,tailwind,postgres,supabase,mongodb,docker,git,postman&perline=7" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,tailwind,postgres,supabase,mongodb,docker,git,postman&perline=15" alt="Tech Stack" />
   </a>
 </p>
 
@@ -23,4 +23,7 @@ Currently based in Argentina, I work as an independent developer delivering tail
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Meta_Ads-0081FB?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
   <img src="https://img.shields.io/badge/Easypanel-0D1117?style=for-the-badge&logo=serverless&logoColor=white" alt="Easypanel" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Antigravity-18181B?style=for-the-badge&logo=target&logoColor=white" alt="Antigravity" />
 </p>
