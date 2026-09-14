@@ -1,5 +1,4 @@
-<img width="2418" height="1928" alt="screen" src="https://github.com/user-attachments/assets/b1b672ce-e8bc-431f-92fa-33a45634242b" />
-
+<img width="993" height="311" alt="Captura de pantalla 2026-09-14 a la(s) 12 52 51 p  m" src="https://github.com/user-attachments/assets/2b906751-a00f-4178-ae0d-89b0fbba667f" />
 # Hi, I'm Juani Martinez Heguy
 
 ### Software Developer | N8N Engineer | UI/UX & Motion Design | Argentine
