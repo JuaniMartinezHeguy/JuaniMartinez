@@ -1,4 +1,5 @@
-<img width="4190" height="1024" alt="Gemini_Generated_Image_ktj25pktj25pktj2" src="https://github.com/user-attachments/assets/1279594a-1309-489a-9de0-e161a409d725" />
+<img width="2418" height="1928" alt="screen" src="https://github.com/user-attachments/assets/b1b672ce-e8bc-431f-92fa-33a45634242b" />
+
 # Hi, I'm Juani Martinez Heguy
 
 ### Software Developer | N8N Engineer | UI/UX & Motion Design | Argentine
